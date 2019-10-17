@@ -1,0 +1,14 @@
+  
+
+  abrir terminal
+  (Ctrl +Alt +t)
+
+  git status
+  ls(listar)
+  cd git(para entrar no git)
+  cd curso-html...(para entrar no curso-html...)
+  git status
+  git add <file>
+  se quiser to todos os arqivos colocar "git add ."
+  git commit -m "cores e links"
+  

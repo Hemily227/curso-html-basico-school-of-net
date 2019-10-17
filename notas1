@@ -1,4 +1,6 @@
   
+  *como comitar
+
 
   abrir terminal
   (Ctrl +Alt +t)
@@ -10,5 +12,9 @@
   git status
   git add <file>
   se quiser to todos os arqivos colocar "git add ."
+  git status
   git commit -m "cores e links"
+  git status
+  git push(usa-lo para publicar no meu local de commits)
+  agora usuário e senha
   
